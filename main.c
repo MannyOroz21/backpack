@@ -3,4 +3,8 @@
 #include <stdlib.h>
 
 //Warm-Up Activity
-printf("The maximum value $660");
+int main(){
+    printf("The maximum value $660");
+    return 0;
+}
+
