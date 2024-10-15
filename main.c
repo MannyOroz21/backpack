@@ -1,2 +1,6 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
 //Warm-Up Activity
-//The maximum value $660
+printf("The maximum value $660");
